@@ -27,7 +27,7 @@ Before running this application, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/visited-countries-tracker.git
+   git clone https://github.com/adityasingh151/visited-countries-tracker.git
 
 2. ```bash
    cd visited-countries-tracker
